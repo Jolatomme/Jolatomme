@@ -1,4 +1,4 @@
-# Project Presentation
+# Projects Presentation
 
 ## Orienteering Projects
 - [MeOSDjango](https://github.com/Jolatomme/MeOSDjango) : Django development for displaying Orienteering results with MeOS
